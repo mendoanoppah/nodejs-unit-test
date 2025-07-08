@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "learn nodejs-unit-test",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendoanoppah/nodejs-unit-test.git"
+  },
+  "author": "ioo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mendoanoppah/nodejs-unit-test/issues"
+  },
+  "homepage": "https://github.com/mendoanoppah/nodejs-unit-test#readme"
+}
